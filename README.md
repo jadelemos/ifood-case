@@ -1,4 +1,4 @@
-# Case técnico IFood
+# Case técnico iFood
 
 # Instruções:
 1) Instale as bibliotecas descritas no arquivo `requirements.txt`. Para instalar elas rapidamente, use o comando `pip install -r requirements.txt` 
